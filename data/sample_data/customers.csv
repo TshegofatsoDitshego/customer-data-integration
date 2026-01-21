@@ -1,0 +1,8 @@
+customer_id,first_name,last_name,email,phone,signup_date,country
+1001,James,Smith,james.smith@email.com,+27 82 555 0101,2023-01-15,South Africa
+1002,Sarah,Johnson,sarah.j@email.com,0825550102,15/02/2023,ZA
+1003,Michael,Williams,m.williams@company.co.za,+27-83-555-0103,2023-03-10,South Africa
+1004,Emily,Brown,,0824440104,2023-04-22,South Africa
+1005,David,Jones,david.jones@email.com,+27 84 555 0105,05/05/2023,South Africa
+1006,Lisa,Garcia,lisa.garcia@email.com,,2023-06-18,South Africa
+1007,James,Smith,james.smith@email.com,+27 82 555 0101,2023-07-20,South Africa
